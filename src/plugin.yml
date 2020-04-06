@@ -1,0 +1,5 @@
+name: BedSurvie
+author: MineBoyFR
+main: fr.mineboyfr.BedSurvie.Main
+version: 0.0.1
+api-version: 1.13

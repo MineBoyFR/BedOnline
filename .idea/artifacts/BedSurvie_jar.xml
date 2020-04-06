@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BedSurvie:jar">
+    <output-path>E:/YAO/Desktop/ServeurLocal1.15/plugins</output-path>
+    <root id="archive" name="BedSurvie.jar">
+      <element id="module-output" name="BedSurvie" />
+    </root>
+  </artifact>
+</component>
